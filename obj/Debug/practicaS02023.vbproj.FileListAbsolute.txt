@@ -1,0 +1,12 @@
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.vbproj.AssemblyReference.cache
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.vbproj.SuggestedBindingRedirects.cache
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.Resources.resources
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.vbproj.GenerateResource.cache
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.vbproj.CoreCompileInputs.cache
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\bin\Debug\practicaS02023.exe.config
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\bin\Debug\practicaS02023.exe
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\bin\Debug\practicaS02023.pdb
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\bin\Debug\practicaS02023.xml
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.exe
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.xml
+C:\Users\eldoc\source\repos\practicaS02023\practicaS02023\obj\Debug\practicaS02023.pdb
